@@ -57,11 +57,4 @@ public class DataHelper {
   }
 
 
-  public static int balanceDecrease(int balance, int amount) {
-    return balance - amount;
-  }
-
-  public static int balanceIncrease(int balance, int amount) {
-    return balance + amount;
-  }
 }
