@@ -55,7 +55,7 @@ public class DataHelper {
   public static Card getSecondCard() {
     return new Card("5559000000000002", 10000);
   }
-}
+
 
   public static int balanceDecrease(int balance, int amount) {
     return balance - amount;
